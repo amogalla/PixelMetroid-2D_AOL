@@ -5,6 +5,6 @@ Juego Metroid en 2D desarrollado en Unity.
 ![Enemigos](enemigos.png)
 
 ## Y captura los 30 elementos coleccionables
-1[Coleccionables](powerUps.png)
+![Coleccionables](powerUps.png)
 
 
